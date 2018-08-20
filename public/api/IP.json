@@ -1,0 +1,53 @@
+{
+    "code": 0,
+    "result": {
+        "list": [{
+            "id": 0,
+            "IP": "192.168.1.199",
+            "remarks": "无",
+            "createTime": "2018-08-08",
+            "updateTime": "2018-08-09",
+            "IPState": "正常",
+            "operationName": "王茂林"
+        }, {
+            "id": 1,
+            "IP": "192.168.1.199",
+            "remarks": "无",
+            "createTime": "2018-08-08",
+            "updateTime": "2018-08-09",
+            "IPState": "正常",
+            "operationName": "王茂林",
+            "examineState": "审核通过"
+        }, {
+            "id": 2,
+            "IP": "192.168.1.199",
+            "remarks": "无",
+            "createTime": "2018-08-08",
+            "updateTime": "2018-08-09",
+            "IPState": "正常",
+            "operationName": "王茂林",
+            "examineState": "审核通过"
+        }, {
+            "id": 3,
+            "IP": "192.168.1.199",
+            "remarks": "无",
+            "createTime": "2018-08-08",
+            "updateTime": "2018-08-09",
+            "IPState": "正常",
+            "operationName": "王茂林",
+            "examineState": "审核通过"
+        }, {
+            "id": 4,
+            "IP": "192.168.1.199",
+            "remarks": "无",
+            "createTime": "2018-08-08",
+            "updateTime": "2018-08-09",
+            "IPState": "正常",
+            "operationName": "王茂林",
+            "examineState": "审核通过"
+        }],
+        "page": 2,
+        "page_size": 10,
+        "total_count": 30
+    }
+}
